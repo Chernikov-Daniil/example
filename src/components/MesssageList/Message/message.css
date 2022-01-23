@@ -1,0 +1,9 @@
+.msg-human {
+  color: black;
+  font-size: 16px;
+}
+
+.msg-bot {
+  color: gray;
+  font-size: 10px;
+}
